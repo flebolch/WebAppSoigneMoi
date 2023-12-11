@@ -1,0 +1,32 @@
+.InputBox{
+    background-color: #ccc;
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 16px;
+    outline: none;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+/* Containers */
+
+.containerForm{
+height: 100vh;
+display: flex;
+justify-content: center;
+padding-top: 20px;
+padding-bottom: 20 px;
+columns: col-12;
+}
+
+
+/* text */
+.h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: red;
+    margin-bottom: 10px;
+}
